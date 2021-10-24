@@ -1,0 +1,8 @@
+.DS_Store
+csv/
+web/
+target/
+*.json
+*.csv
+*.txt
+jawiki-latest-all-titles-in-ns0
